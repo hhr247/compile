@@ -4,7 +4,7 @@
 
 源文件为source.cpp
 
-编译出来的程序为clang.exe
+编译出来的程序为source.exe
 
 #### 使用方法
 
