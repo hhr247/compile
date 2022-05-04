@@ -1,0 +1,117 @@
+#@startdot
+
+digraph demo {
+    // label="示例"
+    bgcolor="beige"
+    // rankdir=LR
+    node[color="grey",fontname="FangSong"]
+    edge[fontname="FangSong"]
+    0[label="0", shape="circle"]
+    1[label="1", shape="circle"]
+    2[label="2", shape="circle"]
+    3[label="3", shape="circle"]
+    4[label="4", shape="circle"]
+    5[label="5", shape="circle"]
+    6[label="6", shape="circle"]
+    7[label="7", shape="circle"]
+    8[label="8", shape="circle"]
+    9[label="9", shape="circle"]
+    10[label="10", shape="circle"]
+    11[label="11", shape="circle"]
+    12[label="12", shape="circle"]
+    13[label="13", shape="circle"]
+    14[label="14", shape="circle"]
+    15[label="15", shape="circle"]
+    16[label="16", shape="circle"]
+    17[label="17", shape="circle"]
+    18[label="18", shape="circle"]
+    19[label="19", shape="circle"]
+    20[label="20", shape="circle"]
+    21[label="21", shape="circle"]
+    22[label="22", shape="circle"]
+    23[label="23", shape="circle"]
+    24[label="24", shape="circle"]
+    R[label="R", shape="doublecircle"]
+    
+    0->21[label="obj"]
+    0->18[label="ω0"]
+    0->22[label="("]
+    0->6[label=";"]
+    0->1[label="S"]
+    0->3[label="E"]
+    0->4[label="AsE"]
+    0->7[label="UnE"]
+    0->20[label="T"]
+
+    1->21[label="obj"]
+    1->18[label="ω0"]
+    1->22[label="("]
+    1->6[label=";"]
+    1->2[label="E"]
+    1->4[label="AsE"]
+    1->7[label="UnE"]
+    1->20[label="T"]
+    
+    4->5[label=";"]
+
+    7->11[label="ω"]
+    7->9[label="ω6"]
+    7->8[label="AsE1"]
+
+    9->21[label="obj"]
+    9->18[label="ω0"]
+    9->22[label="("]
+    9->10[label="AsE"]
+    9->7[label = "UnE"]
+    9->20[label = "T"]
+
+    11->21[label="obj"]
+    11->18[label="ω0"]
+    11->22[label="("]
+    11->12[label="OpE"]
+    11->13[label = "UnE"]
+    11->20[label = "T"]
+
+    13->15[label = "15"]
+    13->14[label = "OpE1"]
+
+    15->21[label="obj"]
+    15->18[label="ω0"]
+    15->22[label="("]
+    15->16[label = "UnE"]
+    15->20[label = "T"]
+
+    16->15[label = "ω"]
+    16->17[label = "OpE1"]
+
+    18->21[label="obj"]
+    18->18[label="ω0"]
+    18->22[label="("]
+    18->19[label = "UnE"]
+    18->20[label = "T"]
+
+    22->21[label="obj"]
+    22->18[label="ω0"]
+    22->22[label="("]
+    22->23[label= "AsE"]
+    22->19[label = "UnE"]
+    22->20[label = "T"]
+    23->24[label = ")"]
+
+
+    2->R[label = "R0"]
+    3->R[label = "R1"]
+    5->R[label = "R2"]
+    6->R[label = "R3"]
+    8->R[label = "R4"]
+    10->R[label = "R5"]
+    12->R[label = "R6"]
+    14->R[label = "R8"]
+    17->R[label = "R9"]
+    19->R[label = "R11"]
+    20->R[label = "R12"]
+    21->R[label = "R13"]
+    24->R[label = "R14"]
+}
+
+#@enddot
