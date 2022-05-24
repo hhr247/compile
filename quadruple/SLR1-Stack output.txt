@@ -1,0 +1,91 @@
+Stack: # 0 
+Stack: # 0 obj 21 
+Stack: # 0 T 20 
+Stack: # 0 UnE 7 
+Stack: # 0 UnE 7 w6 9 
+Stack: # 0 UnE 7 w6 9 ( 22 
+Stack: # 0 UnE 7 w6 9 ( 22 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 w0 18 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 w0 18 obj 21 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 w0 18 T 20 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 w0 18 UnE 19 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 UnE 13 OpE1 14 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 w 11 OpE 12 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 UnE 7 AsE1 8 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 w6 9 AsE 10 
+Stack: # 0 UnE 7 w6 9 ( 22 UnE 7 AsE1 8 
+Stack: # 0 UnE 7 w6 9 ( 22 AsE 23 
+Stack: # 0 UnE 7 w6 9 ( 22 AsE 23 ) 24 
+Stack: # 0 UnE 7 w6 9 T 20 
+Stack: # 0 UnE 7 w6 9 UnE 7 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 obj 21 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 T 20 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 UnE 13 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 obj 21 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 T 20 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 UnE 13 w 15 UnE 16 OpE1 17 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 UnE 13 OpE1 14 
+Stack: # 0 UnE 7 w6 9 UnE 7 w 11 OpE 12 
+Stack: # 0 UnE 7 w6 9 UnE 7 AsE1 8 
+Stack: # 0 UnE 7 w6 9 AsE 10 
+Stack: # 0 UnE 7 AsE1 8 
+Stack: # 0 AsE 4 
+Stack: # 0 AsE 4 ; 5 
+Stack: # 0 E 3 
+Stack: # 0 S 1 

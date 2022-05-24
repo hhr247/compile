@@ -1,0 +1,215 @@
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: a 
+SEM: a 
+SEM: a 
+SEM: a 
+SEM: a 
+SEM: a 
+SEM: a 
+SEM: a 
+SEM: a 
+SEM: a 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j 
+SEM: a b c d e f g h i j k 
+SEM: a b c d e f g h i j k 
+SEM: a b c d e f g h i j k 
+SEM: a b c d e f g h i j k 
+SEM: a b c d e f g h i j k 
+SEM: a b c d e f g h i j k 
+SEM: a b c d e f g h i j k 
+SEM: a b c d e f g h i j k l 
+SEM: a b c d e f g h i j k l 
+SEM: a b c d e f g h i j k l 
+SEM: a b c d e f g h i j k l 
+SEM: a b c d e f g h i j k l 
+SEM: a b c d e f g h i j k l 
+SEM: a b c d e f g h i j k l 
+SEM: a b c d e f g h i j k l m 
+SEM: a b c d e f g h i j k l m 
+SEM: a b c d e f g h i j k t0 
+SEM: a b c d e f g h i j k t0 
+SEM: a b c d e f g h i j t1 
+SEM: a b c d e f g h i j t1 
+SEM: a b c d e f g h i t2 
+SEM: a b c d e f g h i t2 
+SEM: a b c d e f g h t3 
+SEM: a b c d e f g h t3 
+SEM: a b c d e f g t4 
+SEM: a b c d e f g t4 
+SEM: a b c d e f t5 
+SEM: a b c d e f t5 
+SEM: a b c d e t6 
+SEM: a b c d e t6 
+SEM: a b c d t7 
+SEM: a b c d t7 
+SEM: a b c t8 
+SEM: a b c t8 
+SEM: a b c t8 
+SEM: a b t9 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b 
+SEM: a b b 
+SEM: a b b 
+SEM: a b b 
+SEM: a b b 
+SEM: a b b 
+SEM: a b b c 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a b t11 
+SEM: a t12 
+SEM: a 
+SEM: 
+SEM: 
