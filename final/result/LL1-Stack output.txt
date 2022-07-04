@@ -1,0 +1,1174 @@
+Stack: # P 
+Stack: # P1 ExD 
+Stack: # P1 ExD1 v type 
+Stack: # P1 ExD1 v 
+Stack: # P1 ExD1 
+Stack: # P1 Func1 
+Stack: # P1 CS {IDF()} ) ( 
+Stack: # P1 CS {IDF()} ) 
+Stack: # P1 CS {IDF()} 
+Stack: # P1 CS 
+Stack: # P1 } CS1 { 
+Stack: # P1 } CS1 
+Stack: # P1 } Ss 
+Stack: # P1 } Ss S 
+Stack: # P1 } Ss ; Declaration 
+Stack: # P1 } Ss ; VL type 
+Stack: # P1 } Ss ; VL 
+Stack: # P1 } Ss ; VL1 {IDV()} v 
+Stack: # P1 } Ss ; VL1 {IDV()} 
+Stack: # P1 } Ss ; VL1 
+Stack: # P1 } Ss ; VL1 Declaration1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE w6 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) 
+Stack: # P1 } Ss ; VL1 
+Stack: # P1 } Ss ; VL1 {IDV()} v , 
+Stack: # P1 } Ss ; VL1 {IDV()} v 
+Stack: # P1 } Ss ; VL1 {IDV()} 
+Stack: # P1 } Ss ; VL1 
+Stack: # P1 } Ss ; VL1 Declaration1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE w6 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) 
+Stack: # P1 } Ss ; VL1 
+Stack: # P1 } Ss ; VL1 {IDV()} v , 
+Stack: # P1 } Ss ; VL1 {IDV()} v 
+Stack: # P1 } Ss ; VL1 {IDV()} 
+Stack: # P1 } Ss ; VL1 
+Stack: # P1 } Ss ; VL1 Declaration1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE w6 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) 
+Stack: # P1 } Ss ; VL1 
+Stack: # P1 } Ss ; 
+Stack: # P1 } Ss 
+Stack: # P1 } Ss S 
+Stack: # P1 } Ss ; AsE 
+Stack: # P1 } Ss ; AsE1 LoE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss ; AsE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss ; GEQ(op1) 
+Stack: # P1 } Ss ; 
+Stack: # P1 } Ss 
+Stack: # P1 } Ss S 
+Stack: # P1 } Ss ; AsE 
+Stack: # P1 } Ss ; AsE1 LoE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss ; AsE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE w2 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 UnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 T 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 obj 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss ; GEQ(op1) 
+Stack: # P1 } Ss ; 
+Stack: # P1 } Ss 
+Stack: # P1 } Ss S 
+Stack: # P1 } Ss ; AsE 
+Stack: # P1 } Ss ; AsE1 LoE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss ; AsE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss ; GEQ(op1) 
+Stack: # P1 } Ss ; 
+Stack: # P1 } Ss 
+Stack: # P1 } Ss S 
+Stack: # P1 } Ss Wh 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE ( {WH()} while 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE ( {WH()} 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE ( 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE w4 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE && 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE w4 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 XoE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) OrE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 GEQ(op2) 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 LoE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) AsE1 
+Stack: # P1 } Ss {WE()} S {DO()} ) 
+Stack: # P1 } Ss {WE()} S {DO()} 
+Stack: # P1 } Ss {WE()} S 
+Stack: # P1 } Ss {WE()} CS 
+Stack: # P1 } Ss {WE()} } CS1 { 
+Stack: # P1 } Ss {WE()} } CS1 
+Stack: # P1 } Ss {WE()} } Ss 
+Stack: # P1 } Ss {WE()} } Ss S 
+Stack: # P1 } Ss {WE()} } Ss ; AsE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) 
+Stack: # P1 } Ss {WE()} } Ss ; 
+Stack: # P1 } Ss {WE()} } Ss 
+Stack: # P1 } Ss {WE()} } Ss S 
+Stack: # P1 } Ss {WE()} } Ss ; AsE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss {WE()} } Ss ; AsE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) UnE w1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) UnE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) T 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) obj 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE w2 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 UnE 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 T 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 obj 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss {WE()} } Ss ; GEQ(op1) 
+Stack: # P1 } Ss {WE()} } Ss ; 
+Stack: # P1 } Ss {WE()} } Ss 
+Stack: # P1 } Ss {WE()} } Ss S 
+Stack: # P1 } Ss {WE()} } Ss IFS 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE ( if 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE ( 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE w4 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} ) 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S {IF()} 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} S 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} CS 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } CS1 { 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } CS1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss S 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op0) UnE w0 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op0) UnE 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op0) T 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op0) obj 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op0) 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss ; 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} } 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 {EL()} 
+Stack: # P1 } Ss {WE()} } Ss {IE()} IFS1 
+Stack: # P1 } Ss {WE()} } Ss {IE()} 
+Stack: # P1 } Ss {WE()} } Ss 
+Stack: # P1 } Ss {WE()} } 
+Stack: # P1 } Ss {WE()} 
+Stack: # P1 } Ss 
+Stack: # P1 } Ss S 
+Stack: # P1 } Ss IFS 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE ( if 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE ( 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE w4 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE || 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE w4 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 OrE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) LaE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 GEQ(op2) 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} ) 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S {IF()} 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} S 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} CS 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } CS1 { 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } CS1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss S 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss ; 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} } 
+Stack: # P1 } Ss {IE()} IFS1 {EL()} 
+Stack: # P1 } Ss {IE()} IFS1 
+Stack: # P1 } Ss {IE()} S else 
+Stack: # P1 } Ss {IE()} S 
+Stack: # P1 } Ss {IE()} IFS 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE ( if 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE ( 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE w4 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) AsE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} ) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S {IF()} 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} S 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} CS 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } CS1 { 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } CS1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss S 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; AsE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE ^ 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 GEQ(op2) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; GEQ(op1) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss ; 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss S 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss IFS 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE ( if 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE ( 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE w4 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 GEQ(op2) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 LoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) AsE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} ) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S {IF()} 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} S 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} CS 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } CS1 { 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } CS1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss S 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; AsE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE | 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 GEQ(op2) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; GEQ(op1) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss ; 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} } 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 {EL()} 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} IFS1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} S else 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} S 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} CS 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } CS1 { 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } CS1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss S 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; AsE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; GEQ(op1) 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss ; 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } Ss 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} } 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss {IE()} 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } Ss 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} } 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 {EL()} 
+Stack: # P1 } Ss {IE()} {IE()} IFS1 
+Stack: # P1 } Ss {IE()} {IE()} 
+Stack: # P1 } Ss {IE()} 
+Stack: # P1 } Ss 
+Stack: # P1 } Ss S 
+Stack: # P1 } Ss ; AsE 
+Stack: # P1 } Ss ; AsE1 LoE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; AsE1 LoE1 
+Stack: # P1 } Ss ; AsE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE w6 
+Stack: # P1 } Ss ; GEQ(op1) AsE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss ; GEQ(op1) AsE1 
+Stack: # P1 } Ss ; GEQ(op1) 
+Stack: # P1 } Ss ; 
+Stack: # P1 } Ss 
+Stack: # P1 } Ss S 
+Stack: # P1 } Ss ; Declaration 
+Stack: # P1 } Ss ; VL type 
+Stack: # P1 } Ss ; VL 
+Stack: # P1 } Ss ; VL1 {IDV()} v 
+Stack: # P1 } Ss ; VL1 {IDV()} 
+Stack: # P1 } Ss ; VL1 
+Stack: # P1 } Ss ; VL1 Declaration1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE w6 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) UnE w1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 GEQ(op2) 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE w2 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) UnE w1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE w2 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) UnE w1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) UnE 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) T 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) obj 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 GEQ(op2) 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) MuE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 GEQ(op2) 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 AdE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 ShE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 ReE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 EqE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 AnE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 XoE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 OrE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 LaE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 LoE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) AsE1 
+Stack: # P1 } Ss ; VL1 GEQ(op1) 
+Stack: # P1 } Ss ; VL1 
+Stack: # P1 } Ss ; 
+Stack: # P1 } Ss 
+Stack: # P1 } 
+Stack: # P1 
+Stack: # 
