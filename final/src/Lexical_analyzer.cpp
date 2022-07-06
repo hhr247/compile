@@ -31,7 +31,7 @@ void Lexical_analyzer::Solution(char* fname,Symbol_table* Symbol) {
 	token = (char*)(malloc(sizeof(char) * 256));
 	FILE* fp = fopen((char*)(fname), "r");
 	ofstream outfile;
-	outfile.open("tokens.txt");
+	outfile.open("../result/tokens.txt");
 	int state = 1;
 	char ch;
 	int i = 0;

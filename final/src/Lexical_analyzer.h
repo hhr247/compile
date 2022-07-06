@@ -21,15 +21,15 @@ private:
 	unordered_map<string, int> PT;
 	//Identify Table
 	vector<string> IT;
-	int state_change(int state, char ch);
-	int state_to_code(int state_before, char* token, Symbol_table* Symbol);
-	void reset(FILE*& fp, char*& token, int& state, int& i);
+	int state_change(int state, char ch);//状态转换函数
+	int state_to_code(int state_before, char* token, Symbol_table* Symbol);//将状态转换成对应的代号
+	void reset(FILE*& fp, char*& token, int& state, int& i);//重置状态并且调整fp指针
 	//init keyword table
 	void init_kt();
 	//init Partition table
 	void init_pt();
-	bool is_letter(char a);
-	bool is_dig(char a);
+	bool is_letter(char a);//判断是否为字母
+	bool is_dig(char a);//判断是否为数字
 public:
 	Lexical_analyzer();
 	~Lexical_analyzer();

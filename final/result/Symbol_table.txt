@@ -2,19 +2,48 @@ SYMBOL TABLE
            name           type      character        address
            main              f             id              0
               a              v             id              0
-              b              v             id              1
-              c              v             id              2
-              d              v             id              3
+              c              v             id              1
+              b              v             id              2
+              i              v             id              3
+              d              v             id              4
+              e              v             id              5
 
 
 VARIABLE TABLE
            name           tval            len
               a            int              4
-              b            int              4
               c            int              4
+              b            int              4
+              i            int              4
               d            int              4
+              e            int              4
 
 
 FUNCTION TABLE
            name    return_type
            main            int
+Temp TABLE
+           name     used times
+            t10              2
+            t11              2
+            t12              2
+            t13              2
+            t14              2
+            t15              2
+            t16              2
+            t17              2
+            t18              2
+            t19              2
+            t20              2
+            t21              2
+            t22              2
+            t23              2
+            t24              2
+            t25              2
+            t26              2
+            t27              2
+            t28              2
+            t30              2
+            t32              2
+             t8              2
+             t9              3

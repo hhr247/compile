@@ -34,6 +34,14 @@ action:
 action: next(w)
 action: 
 action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: GEQ(op2)
+action: 
 action: 
 action: 
 action: 
@@ -46,6 +54,216 @@ action:
 action: GEQ(op1)
 action: 
 action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: next(w)
+action: action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: GEQ(op2)
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: GEQ(op2)
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: next(w)
+action: 
+action: 
+action: next(w)
+action: GEQ(op2)
+action: 
+action: GEQ(op2)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: GEQ(op1)
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: next(w)
+action: action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: GEQ(op1)
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: next(w)
+action: 
+action: 
+action: next(w)
+action: GEQ(op2)
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: next(w)
+action: 
+action: 
+action: next(w)
+action: GEQ(op2)
+action: 
+action: GEQ(op2)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: GEQ(op1)
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
 action: next(w)
 action: action: 
 action: 
@@ -78,6 +296,60 @@ action:
 action: GEQ(op1)
 action: 
 action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: WH()
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: GEQ(op2)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: DO()
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
 action: next(w)
 action: action: 
 action: 
@@ -152,6 +424,70 @@ action:
 action: 
 action: 
 action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: GEQ(op1)
+action: next(w)
+action: 
+action: next(w)
+action: WE()
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: next(w)
+action: 
+action: 
+action: next(w)
+action: GEQ(op2)
 action: 
 action: 
 action: 
@@ -1122,6 +1458,34 @@ action:
 action: next(w)
 action: GEQ(op2)
 action: 
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: next(w)
+action: 
+action: 
+action: next(w)
+action: GEQ(op2)
+action: 
+action: GEQ(op2)
+action: 
+action: next(w)
+action: 
+action: 
+action: 
+action: next(w)
+action: 
+action: next(w)
+action: 
+action: 
+action: next(w)
+action: GEQ(op2)
+action: 
+action: GEQ(op2)
 action: 
 action: next(w)
 action: 

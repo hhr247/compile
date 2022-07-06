@@ -8,6 +8,7 @@
     │   ├──action.txt [语义分析结果]
     │   ├──quadruple-output.txt [四元式，语义分析结果]
     │   ├──Symbol_table.txt [符号表内容，符号表结果]
+    |	├──optimize.txt [优化后的四元式]
     │   └──target.asm [目标代码生成]
     └──src [源代码]
     │   ├──ASS.h [目标代码生成器头文件]
@@ -18,14 +19,16 @@
     │   ├──symbol_table.cpp [符号表设计源文件]
     │   ├──Syntactic.h [语法/语义分析头文件]
     │   ├──Syntactic.cpp [语法/语义分析源文件]
+    │   ├──optimize.h [代码优化头文件]
+    │   ├──optimize.cpp [代码优化源文件]
     │   ├──demo.cpp [用于测试的c语言文件，测试代码]
+    |	├──compilers.exe [运行程序]
     │   └──main.cpp [主函数]
     └──soruce
     │   ├──DFA.png [词法分析自动机图片]
     │   ├──语法.md [markdown形式的语法]
     │   ├──语法.pdf [pdf形式的语法]
     │   └──LL1分析表.xlsx [LL1分析表]
-    ├──compilers.exe [运行程序]
     └──19335052_何鸿荣_期末报告.pdf [实验报告]
 ```
 

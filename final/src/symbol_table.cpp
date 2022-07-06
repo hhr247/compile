@@ -55,7 +55,7 @@ bool Symbol_table::connect_variable(string name, string tval, int len) {
 		return false;
 	}
 	else {
-		if (findf(name) != -1) {
+		if (findv(name) != -1) {
 			return false;
 		}
 		variable_table n(name, tval, len);
@@ -97,7 +97,7 @@ string Symbol_table::getname(string a) {
 }
 
 void Symbol_table::print_table() {
-	ofstream outfile("Symbol_table.txt");
+	ofstream outfile("../result/Symbol_table.txt");
 	
 	outfile << "SYMBOL TABLE" << endl;
 	outfile << setiosflags(ios::right) << setw(15);
@@ -121,5 +121,12 @@ void Symbol_table::print_table() {
 		outfile << setiosflags(ios::right) << setw(15);
 		outfile << setw(15) << func[i].name << setw(15) << func[i].return_type << endl;
 	}
+
+	outfile << "Temp TABLE" << endl;
+	outfile << setw(15) << "name" << setw(15) << "used times" << endl;
+	for (map<string, int>::iterator it = temp.begin(); it != temp.end();it++) {
+		outfile << setw(15) << it->first << setw(15) << it->second << endl;
+	}
+
 	outfile.close();
 }

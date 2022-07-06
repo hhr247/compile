@@ -1,6 +1,15 @@
 int main() {
-	int a = 1, b = 0, c = 20;
-	a = 1;
+	int a = 4 + 5;
+	int c = 4 + 7 + 10 - 10 * 2;
+	int b;
+	b = 10;
+	b = a * c + a * c;
+	int i = 0; 
+	while (i < 10) {
+		int d = 1;
+		i += d;
+	}
+	a = i*2;
 	b = a + c;
 	c = 0;
 	while (a <= b && a <= 40) {
@@ -23,5 +32,5 @@ int main() {
 		}
 	}
 	b <<= 4;
-	int d = a * 1 + b * 2 + c * 3;
+	int e = a * 1 + b * 2 + c * 3 + 10 * 2 + i*2;
 }

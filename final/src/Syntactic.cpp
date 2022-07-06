@@ -76,11 +76,11 @@ void Syntactic::LL1solution(string file_name, Symbol_table* Symbol) {
 	S.push("#");
 	S.push("P");
 	ifstream infile(file_name);
-	stack_output.open("LL1-Stack output.txt");
-	quadruple_output.open("quadruple-output.txt");
-	SEM_output.open("SEM.txt");
-	action_output.open("action.txt");
-	OPS_output.open("OPS.txt");
+	stack_output.open("../result/LL1-Stack output.txt");
+	quadruple_output.open("../result/quadruple-output.txt");
+	SEM_output.open("../result/SEM.txt");
+	action_output.open("../result/action.txt");
+	OPS_output.open("../result/OPS.txt");
 	string now_type;
 	vector<string> now_var;
 
@@ -135,7 +135,10 @@ void Syntactic::LL1solution(string file_name, Symbol_table* Symbol) {
 			}
 			string op = Operator_stack.top();
 			Operator_stack.pop();
-			string q = '(' + op + ' ' + right + ' ' + "_" + ' ' + left + ")";
+			string q = '(' + op + ' ' + right + ' ' + left + ' ' + left + ")";
+			if (op == "=") {
+				q = '(' + op + ' ' + right + ' ' + "_ " + left + ")";
+			}
 			quadruple_output << q << endl;
 			QT.push_back(q);
 			action_output << "GEQ(op1)" << endl;

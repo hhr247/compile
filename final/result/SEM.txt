@@ -1,0 +1,1540 @@
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S0 
+SEM: S0 
+SEM: S0 
+SEM: S0 
+SEM: S0 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 4 
+SEM: S1 4 
+SEM: S1 4 
+SEM: S1 4 
+SEM: S1 4 
+SEM: S1 4 
+SEM: S1 4 
+SEM: S1 4 5 
+SEM: S1 4 5 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 t0 
+SEM: S1 
+SEM: S1 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 4 
+SEM: S2 4 
+SEM: S2 4 
+SEM: S2 4 
+SEM: S2 4 
+SEM: S2 4 
+SEM: S2 4 
+SEM: S2 4 7 
+SEM: S2 4 7 
+SEM: S2 t1 
+SEM: S2 t1 
+SEM: S2 t1 
+SEM: S2 t1 
+SEM: S2 t1 
+SEM: S2 t1 
+SEM: S2 t1 10 
+SEM: S2 t1 10 
+SEM: S2 t2 
+SEM: S2 t2 
+SEM: S2 t2 
+SEM: S2 t2 
+SEM: S2 t2 
+SEM: S2 t2 
+SEM: S2 t2 10 
+SEM: S2 t2 10 
+SEM: S2 t2 10 
+SEM: S2 t2 10 
+SEM: S2 t2 10 
+SEM: S2 t2 10 2 
+SEM: S2 t2 t3 
+SEM: S2 t2 t3 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 t4 
+SEM: S2 
+SEM: S2 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 10 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 S2 
+SEM: S3 t5 
+SEM: S3 t5 
+SEM: S3 t5 
+SEM: S3 t5 
+SEM: S3 t5 
+SEM: S3 t5 
+SEM: S3 t5 
+SEM: S3 t5 S1 
+SEM: S3 t5 S1 
+SEM: S3 t5 S1 
+SEM: S3 t5 S1 
+SEM: S3 t5 S1 
+SEM: S3 t5 S1 S2 
+SEM: S3 t5 t6 
+SEM: S3 t5 t6 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 t7 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 0 
+SEM: S4 
+SEM: S4 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 10 
+SEM: S4 10 
+SEM: S4 10 
+SEM: S4 10 
+SEM: t8 
+SEM: t8 
+SEM: t8 
+SEM: t8 
+SEM: t8 
+SEM: t8 
+SEM: t8 
+SEM: t8 
+SEM: t8 
+SEM: t8 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 1 
+SEM: S5 
+SEM: S5 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 S5 
+SEM: S4 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 S4 
+SEM: S1 S4 
+SEM: S1 S4 
+SEM: S1 S4 
+SEM: S1 S4 
+SEM: S1 S4 2 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 t9 
+SEM: S1 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 S2 
+SEM: S3 S1 S2 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 t10 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 0 
+SEM: S2 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 
+SEM: t11 S1 40 
+SEM: t11 S1 40 
+SEM: t11 S1 40 
+SEM: t11 S1 40 
+SEM: t11 t12 
+SEM: t11 t12 
+SEM: t11 t12 
+SEM: t11 t12 
+SEM: t11 t12 
+SEM: t11 t12 
+SEM: t13 
+SEM: t13 
+SEM: t13 
+SEM: t13 
+SEM: t13 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 2 
+SEM: S1 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 S3 
+SEM: S3 S3 
+SEM: S3 S3 
+SEM: S3 S3 
+SEM: S3 S3 
+SEM: S3 S3 2 
+SEM: S3 t14 
+SEM: S3 t14 
+SEM: S3 t14 
+SEM: S3 t14 
+SEM: S3 t14 
+SEM: S3 t14 
+SEM: S3 t14 
+SEM: S3 t14 S2 
+SEM: S3 t14 S2 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 t15 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 10 
+SEM: S2 10 
+SEM: S2 10 
+SEM: S2 10 
+SEM: t16 
+SEM: t16 
+SEM: t16 
+SEM: t16 
+SEM: t16 
+SEM: t16 
+SEM: t16 
+SEM: t16 
+SEM: t16 
+SEM: t16 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: S2 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 2 
+SEM: S3 2 
+SEM: S3 2 
+SEM: S3 2 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 
+SEM: t17 S1 30 
+SEM: t17 S1 30 
+SEM: t17 S1 30 
+SEM: t17 S1 30 
+SEM: t17 t18 
+SEM: t17 t18 
+SEM: t17 t18 
+SEM: t17 t18 
+SEM: t17 t18 
+SEM: t17 t18 
+SEM: t17 t18 
+SEM: t19 
+SEM: t19 
+SEM: t19 
+SEM: t19 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: t20 
+SEM: t20 
+SEM: t20 
+SEM: t20 
+SEM: t20 
+SEM: t20 
+SEM: t20 
+SEM: t20 
+SEM: t20 
+SEM: t20 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 
+SEM: S3 S2 S3 
+SEM: S3 S2 S3 
+SEM: S3 S2 S3 
+SEM: S3 S2 S3 
+SEM: S3 S2 S3 
+SEM: S3 S2 S3 
+SEM: S3 S2 S3 
+SEM: S3 t21 
+SEM: S3 t21 
+SEM: S3 t21 
+SEM: S3 t21 
+SEM: S3 t21 
+SEM: S3 t21 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: t22 
+SEM: t22 
+SEM: t22 
+SEM: t22 
+SEM: t22 
+SEM: t22 
+SEM: t22 
+SEM: t22 
+SEM: t22 
+SEM: t22 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 
+SEM: S3 S1 S3 
+SEM: S3 S1 S3 
+SEM: S3 S1 S3 
+SEM: S3 S1 S3 
+SEM: S3 S1 S3 
+SEM: S3 S1 S3 
+SEM: S3 S1 S3 
+SEM: S3 S1 S3 
+SEM: S3 t23 
+SEM: S3 t23 
+SEM: S3 t23 
+SEM: S3 t23 
+SEM: S3 t23 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 S3 
+SEM: S1 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 4 
+SEM: S3 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 
+SEM: S6 S1 
+SEM: S6 S1 
+SEM: S6 S1 
+SEM: S6 S1 
+SEM: S6 S1 
+SEM: S6 S1 1 
+SEM: S6 t24 
+SEM: S6 t24 
+SEM: S6 t24 
+SEM: S6 t24 
+SEM: S6 t24 
+SEM: S6 t24 
+SEM: S6 t24 
+SEM: S6 t24 S3 
+SEM: S6 t24 S3 
+SEM: S6 t24 S3 
+SEM: S6 t24 S3 
+SEM: S6 t24 S3 
+SEM: S6 t24 S3 2 
+SEM: S6 t24 t25 
+SEM: S6 t24 t25 
+SEM: S6 t26 
+SEM: S6 t26 
+SEM: S6 t26 
+SEM: S6 t26 
+SEM: S6 t26 
+SEM: S6 t26 
+SEM: S6 t26 S2 
+SEM: S6 t26 S2 
+SEM: S6 t26 S2 
+SEM: S6 t26 S2 
+SEM: S6 t26 S2 
+SEM: S6 t26 S2 3 
+SEM: S6 t26 t27 
+SEM: S6 t26 t27 
+SEM: S6 t28 
+SEM: S6 t28 
+SEM: S6 t28 
+SEM: S6 t28 
+SEM: S6 t28 
+SEM: S6 t28 
+SEM: S6 t28 10 
+SEM: S6 t28 10 
+SEM: S6 t28 10 
+SEM: S6 t28 10 
+SEM: S6 t28 10 
+SEM: S6 t28 10 2 
+SEM: S6 t28 t29 
+SEM: S6 t28 t29 
+SEM: S6 t30 
+SEM: S6 t30 
+SEM: S6 t30 
+SEM: S6 t30 
+SEM: S6 t30 
+SEM: S6 t30 
+SEM: S6 t30 S4 
+SEM: S6 t30 S4 
+SEM: S6 t30 S4 
+SEM: S6 t30 S4 
+SEM: S6 t30 S4 
+SEM: S6 t30 S4 2 
+SEM: S6 t30 t31 
+SEM: S6 t30 t31 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 t32 
+SEM: S6 
+SEM: S6 
+SEM: 
+SEM: 
+SEM: 
+SEM: 

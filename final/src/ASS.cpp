@@ -1,7 +1,7 @@
 #include "ASS.h"
 
 ASS::ASS() {
-	outfile.open("target.asm");
+	outfile.open("../result/target.asm");
 	for (int i = 0; i < 8; i++) {
 		regs_times.push_back(8);
 		regs.push_back("empty");
@@ -43,10 +43,21 @@ void ASS::store_data(Symbol_table* sym) {
 				outfile << "\t" << "sb" << "\t" << "$t" << i << "," << Sname << endl;
 			}
 		}
+		if (regs[i][0] == 't' && sym->temp[regs[i]] > 0) {
+			if (!SP.count(regs[i])) {
+				SP[regs[i]] = 0;
+				outfile << "\t" << "addiu" << "\t" << "$sp," << "$sp" << "," << -4 << endl;
+				for (map<string, int>::iterator it = SP.begin(); it != SP.end(); it++) {
+					it->second += 4;
+				}
+			}
+			outfile << "\t" << "sw" << "\t" << "$t" << i << "," << SP[regs[i]] <<  "($sp)"<< endl;
+		}
 	}
 }
 
 void ASS::gen_text(Symbol_table* Sym) {
+	int i = 0;
 	while (true) {
 		char l, r;
 		string content;
@@ -117,6 +128,16 @@ int ASS::deal_reg(string arg, Symbol_table* sym, int tag) {
 				outfile << "\t" << "sb" << "\t" << "$t" << idx << "," << Sname << endl;
 			}
 		}
+		else if (regs[idx][0] == 't' && sym->temp[regs[idx]] > 0) {
+			if (SP.empty() || (!SP.empty() && SP.find(regs[idx]) == SP.end())) {
+				SP[regs[idx]] = 0;
+				outfile << "\t" << "addiu" << "\t" << "$sp," << "$sp" << "," << -4 << endl;
+				for (map<string, int>::iterator it = SP.begin(); it != SP.end(); it++) {
+					it->second += 4;
+				}
+			}
+			outfile << "\t" << "sw" << "\t" << "$t" << idx << "," << SP[regs[idx]] << "($sp)" << endl;
+		}
 		regs[idx] = name;
 		regs_times[idx] = 0;
 		string Sname = regs[idx].substr(1);
@@ -140,8 +161,11 @@ int ASS::deal_reg(string arg, Symbol_table* sym, int tag) {
 				regs_times[i] = 0;
 			}
 		}
-		if(idx != -1)
+		if (idx != -1) {
+			sym->temp[arg] -= 1;
 			return idx;
+		}
+			
 		idx = -1;
 		int max = -1;
 		for (int i = 0; i < 8; i++) {
@@ -161,8 +185,22 @@ int ASS::deal_reg(string arg, Symbol_table* sym, int tag) {
 				outfile << "\t" << "sb" << "\t" << "$t" << idx << "," << Sname << endl;
 			}
 		}
+		else if (regs[idx][0] == 't' && sym->temp[regs[idx]] > 0) {
+			if (SP.empty() || (!SP.empty() && SP.find(regs[idx]) == SP.end())) {
+				SP[regs[idx]] = 0;
+				outfile << "\t" << "addiu" << "\t" << "$sp," << "$sp" << "," << -4 << endl;
+				for (map<string, int>::iterator it = SP.begin(); it != SP.end(); it++) {
+					it->second += 4;
+				}
+			}
+			outfile << "\t" << "sw" << "\t" << "$t" << idx << "," << SP[regs[idx]] << "($sp)" << endl;
+		}
 		regs[idx] = arg;
 		regs_times[idx] = 0;
+		sym->temp[arg] -= 1;
+		if (!SP.empty() && SP.find(regs[idx]) != SP.end()) {
+			outfile << "\t" << "lw" << "\t" << "$t" << idx << "," << SP[regs[idx]] << "($sp)" << endl;
+		}
 		return idx;
 	}
 	else if(arg[0] != '_'){
